@@ -30,7 +30,7 @@ Most of my code is private, but you can *check a look* this list, maybe you find
   - [PassWordsmith](https://github.com/CrisDxyz/PassWordsmith) PassWordsmith is feature-rich Password and Passphrase generator. -|-> `Autohotkey v2`
   - [Cipher Translate](placeholder.link) ROT13, Cesar Cipher supported. (Want to add more eventually). -|-> `Autohotkey v1 & v2`
   - [Network Scanner](placeholder.link) Basic Network Scanner. -|-> `Python | `
-  - [Logs Analyzer](placeholder.link) Reads logs.txt file and searches for patterns (RegEx) of possible bruteforce attacks. -|-> `Autohotkey v2`
+  - [Forensic Pulse (Log Analyzer)](https://github.com/CrisDxyz/Forensic-Pulse_Log-Analyzer) Tool that reads logs.txt files, searching for patterns (RegEx) of possible incidents like bruteforce attacks. -|-> `Autohotkey v2`
   - [Placeholder](placeholder.link)  -|-> ``
 ---
 - Old Work (-):
