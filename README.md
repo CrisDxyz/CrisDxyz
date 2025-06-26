@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Passionate software developer with a keen interest in cybersecurity. Always excited to tackle challenges and learn something new.
+Passionate software developer with a keen interest in Cybersecurity and Automatization. Always excited to tackle challenges and learn something new.
 
 ## 💻 Tech Stack
 
@@ -14,7 +14,7 @@ Passionate software developer with a keen interest in cybersecurity. Always exci
 🔹 Backend:            Django
 🔹 DB:                 PostgreSQL | MySQL | SQLite 
 🔹 Security:           Splunk | Google Chronicle | Wireshark | Suricata | Snort | Tcpdump | Nmap | Hashcat | Hydra | John the Ripper 
-🔹 Misc. & Frameworks: Netmiko | Pandas | PyTorch | Tensorflow | NumPy | React Native | Notion | 
+🔹 Misc. & Frameworks: Netmiko | Pandas | NumPy | PyTorch | Tensorflow | React Native | Notion | 
 ```
 *Still expanding this*
 
@@ -23,7 +23,7 @@ Most of my code is private, but you can *check a look* this list, maybe you find
 
 (**All content on this profile is provided for educational purposes only. Use at your own risk.**)
 
-***Still updating this portfolio/projects list. Half of the names are placeholders as well.***
+***Still updating this portfolio/projects list. Half of the names and links are placeholders as well.***
 
 - Cybersecurity (+):
   - [Hands-on Portfolio](placeholder.link) Covering task: attack & logs analysis, memorandums, CLI operations, incident documentation, etc. -|-> `Cybersecurity | Spanish | English`
@@ -35,7 +35,7 @@ Most of my code is private, but you can *check a look* this list, maybe you find
 ---
 - Old Work (-):
   - [Gtd Automations (redacted)](placeholder.link) Automated Network stuff on Cisco devices, emails, netcracker, excel, etc. -|-> `Python | Autohotkey | Netmiko | Pandas | `
-  - [TodomarketVIP Local System](placeholder.link) Local stock management system, for a small store. [Youtube Demo](placeholder.link). -|-> `Python | MySQL |  `
+  - [TodomarketVIP Local System](https://github.com/CrisDxyz/Sistema_TodoMarket) Local stock management system, for a small store. [Youtube Demo](https://youtu.be/JYtseoEDDe0). -|-> `Python | MySQL |  `
   - [Caros's Cakes Web System](placeholder.link) Web system for a small store that sells cakes online. -|-> `Python | SQL | HTML | CSS | `
 ---
 - Tools (+):
@@ -48,15 +48,15 @@ Most of my code is private, but you can *check a look* this list, maybe you find
   - [Search Highlighted on WordReference](https://github.com/CrisDxyz/Vertedero-de-AHKs/tree/main/Search%20Highlighted%20on%20Dictionary) Automatically go to WordReference and search for that word presing Shift+s. -|-> `Autohotkey v1`
 ---
 - Computer Science (-):
-  - [Machine Learning FashionMNIST Training](placeholder.link) Fashion Mnist notebook training. -|-> `Python (Jupyter Notebook) | Tensorflow & PyTorch | Scikit-learn | Pandas | Matplotlib | Numpy`
-  - [Skip List for AHKv2](placeholder.link) Skip list (probabilistic linked list with Θ(log(n)) time complexity) implementation on Autohotkey v2. -|-> `Autohotkey v2`
-  - [Eng-Spa Translator](placeholder.link) Example of non-contextual translator using a txt as database and trees as data structure. -|-> `C++`
+  - [Machine Learning FashionMNIST Training](https://github.com/CrisDxyz/FashionMNIST_2022_ML) Fashion Mnist notebook training. -|-> `Python (Jupyter Notebook) | Scikit-learn | Numpy | Pandas | Matplotlib | tqdm`
+  - [Skip List for AHKv2](https://github.com/CrisDxyz/SkipList-AHKv2) Skip list (probabilistic linked list with Θ(log(n)) time complexity) implementation on Autohotkey v2. -|-> `Autohotkey v2`
+  - [Eng-Spa Translator](https://github.com/CrisDxyz/TraductorTree) Example of non-contextual translator using a txt as database and trees as data structure. -|-> `C++`
 ---
-- Toys and learning focused projects that don't fit above (-):
+- Toys, games and learning focused projects that don't fit above (-):
   - [Glout](placeholder.link) Android App that displays on Google Maps pinned stores that sell Gluten Free products. -|-> `React Native`
-  - [Tetris](placeholder.link) Modified (Cooler) Tetris -|-> `Python | Pygame`
-  - [Semi-AleatoriedadASM](placeholder.link) Small "guess the number" game using Linear congruential generator. -|-> `Assembly`
-  - [Dictionarytxt](placeholder.link) Basic Dictionary using txt as db. -|-> `C++`
+  - [Tetris](https://github.com/CrisDxyz/TetrisMod) Modified (Cooler) Tetris game. -|-> `Python | Pygame`
+  - [Semi-AleatoriedadASM](https://github.com/CrisDxyz/Semi-AleatoriedadASM) Small "guess the number" game using Linear congruential generator. -|-> `Assembly`
+  - [Dictionarytxt](https://github.com/CrisDxyz/Diccionariotxt) Basic Dictionary using txt as db. -|-> `C++`
   - [AHK Cheat Sheet](placeholder.link) Condensed Autohotkey Documentation with code examples. -|-> `Markdown`
   - [Python Cheat Sheet](placeholder.link) Condensed Python Documentation with code examples -|-> `Markdown`
 
