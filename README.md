@@ -34,7 +34,7 @@ Most of my code is private, but you can *check a look* this list, maybe you find
   - [Placeholder](placeholder.link)  -|-> ``
 ---
 - Old Work (-):
-  - [Gtd Automations (redacted)](placeholder.link) Automated Network stuff on Cisco devices, emails, netcracker, excel, etc. -|-> `Python | Autohotkey | Netmiko | Pandas | `
+  - [Gtd Automations (redacted)](https://github.com/CrisDxyz/Gtd_Automations) Automated Network stuff on network devices (like Cisco), emails, netcracker, excel, etc. -|-> `Python | Autohotkey | Netmiko | Pandas | Others`
   - [TodomarketVIP Local System](https://github.com/CrisDxyz/Sistema_TodoMarket) Local stock management system, for a small store. [Youtube Demo](https://youtu.be/JYtseoEDDe0). -|-> `Python | MySQL |  `
   - [Caros's Cakes Web System](placeholder.link) Web system for a small store that sells cakes online. -|-> `Python | SQL | HTML | CSS | `
 ---
