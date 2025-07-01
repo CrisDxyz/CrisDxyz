@@ -10,7 +10,7 @@ Passionate software developer with a keen interest in Cybersecurity and Automati
 
 ```
 🔹 Languages:          Python | AutoHotkey | C++ | C | Assembly | AutoIt 
-🔹 Frontend:           HTML | CSS | Bootstrap
+🔹 Frontend:           HTML | PHP | CSS | Bootstrap
 🔹 Backend:            Django
 🔹 DB:                 PostgreSQL | MySQL | SQLite 
 🔹 Security:           Splunk | Google Chronicle | Wireshark | Suricata | Snort | Tcpdump | Nmap | Hashcat | Hydra | John the Ripper 
@@ -35,8 +35,8 @@ Most of my code is private, but you can *check a look* this list, maybe you find
 ---
 - Old Work (-):
   - [Gtd Automations (redacted)](https://github.com/CrisDxyz/Gtd_Automations) Automated Network stuff on network devices (like Cisco), emails, netcracker, excel, etc. -|-> `Python | Autohotkey | Netmiko | Pandas | Others`
-  - [TodomarketVIP Local System](https://github.com/CrisDxyz/Sistema_TodoMarket) Local stock management system, for a small store. [Youtube Demo](https://youtu.be/JYtseoEDDe0). -|-> `Python | MySQL |  `
-  - [Caros's Cakes Web System](placeholder.link) Web system for a small store that sells cakes online. -|-> `Python | SQL | HTML | CSS | `
+  - [TodomarketVIP Local System](https://github.com/CrisDxyz/Sistema_TodoMarket) Local stock management system, for a small store. [Youtube Demo](https://youtu.be/JYtseoEDDe0). -|-> `Python | MySQL | Tkinter`
+  - [Caros's Cakes Web System](https://github.com/CrisDxyz/Pasteleria_Caros_Cakes) Web system for a small store that sells cakes online. -|-> `SQL | PHP | CSS `
 ---
 - Tools (+):
   - [Dim Echo Box](https://github.com/CrisDxyz/Dim_Echo_Box) Log Debugging tool for Autohotkey v2. Also great to display information/replace MsgBox. -|-> `Autohotkey v2`
